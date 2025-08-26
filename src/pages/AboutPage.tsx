@@ -56,7 +56,7 @@ const AboutPage: React.FC = () => {
         'Database architecture planning'
       ],
       skills: ['React', 'CRUD Operations', 'Admin Panels', 'Backend Logic'],
-      avatar: 'https://www.facebook.com/photo/?fbid=5767342023325283&set=a.107529959306546&__cft__[0]=AZVtU5inxp9x5honmIa7ZNt__XoSgLGO5va0k51n5z3tJ3uBOheH7qTQRB-e2oXGo3d1CnGiNdLI1sqkF0mGv3_5sWlFeM3K-PDGPJp0r7fxeNHeAXsYKy6BkgghyS8iqBLGIPHN5oektv-xR7fmRhKX_AHYifhQiZcCyvrs3iIGg36pXs_U23kCbzrXCrCdVJqlMe_MilG5SA1kXAOsdx0D&__tn__=~H-R',
+      avatar: 'https://scontent.fsyd11-1.fna.fbcdn.net/v/t39.30808-6/318215645_5767342013325284_8391362800783920612_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=UZA3u0YkGGwQ7kNvwH2-Gff&_nc_oc=Adl_IdnwYVeAiMw-dGtU8qPzey_NzBooPcIlVMPuRiHtkf8vlGFmEZZ6DmaUYuwS0U0&_nc_zt=23&_nc_ht=scontent.fsyd11-1.fna&_nc_gid=7uoU_9TSqLS3r5RoUgc6Tg&oh=00_AfVMyYR-jWVTsujXkoegiokdZhrIiEr8o3Gygtlj7ANEoQ&oe=68B38A88',
       email: 'nabin@crowntech.com'
     }
   ];
