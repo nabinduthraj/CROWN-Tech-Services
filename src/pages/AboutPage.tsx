@@ -56,7 +56,7 @@ const AboutPage: React.FC = () => {
         'Database architecture planning'
       ],
       skills: ['React', 'CRUD Operations', 'Admin Panels', 'Backend Logic'],
-      avatar: 'https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+      avatar: 'Pagoda.png',
       email: 'nabin@crowntech.com'
     }
   ];
