@@ -4,7 +4,7 @@ import { Crown, Users, Code, Star, Award, Mail, Github, Linkedin } from 'lucide-
 const AboutPage: React.FC = () => {
   const teamMembers = [
     {
-      name: 'Amair',
+      name: 'Aamir',
       role: 'UI/UX Designer & Frontend Lead',
       responsibilities: [
         'Landing Page (index.html) design and development',
