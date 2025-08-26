@@ -28,7 +28,7 @@ const AboutPage: React.FC = () => {
         'Password encryption and validation'
       ],
       skills: ['JavaScript', 'Security', 'Authentication', 'Form Validation'],
-      avatar: 'https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+      avatar: 'https://scontent.fsyd11-1.fna.fbcdn.net/v/t39.30808-6/494060760_9713736715351527_3250244278012273448_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=k6UbP0abggQQ7kNvwGq3vFz&_nc_oc=AdmmbrC1nVBiJEU1diU2wZlPx9ianZVSMoAkhYvpeMdFwuV4RhJ8ZE3XkTpSiwfmhLM&_nc_zt=23&_nc_ht=scontent.fsyd11-1.fna&_nc_gid=AN69pmZHYoU011rxXwsfaA&oh=00_AfW8yIR66HafyobAiTK82jhKTpPohTpkHgRYRWrcVRPdjA&oe=68B39A46',
       email: 'bikram@crowntech.com'
     },
     {
@@ -42,7 +42,7 @@ const AboutPage: React.FC = () => {
         'Order management system'
       ],
       skills: ['React Context', 'State Management', 'Session Storage', 'Payment Systems'],
-      avatar: 'https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+      avatar: 'https://scontent.fsyd11-1.fna.fbcdn.net/v/t1.6435-9/37288309_102384484023883_2606734734205648896_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=x8TSKQjAVGEQ7kNvwHE12z9&_nc_oc=AdnQjy_sCg2ZGhEM7F-XnlgTKIOlA3OX_cpX9KoRKqvPhWcfoOIF8GWddsSzgbJtgvw&_nc_zt=23&_nc_ht=scontent.fsyd11-1.fna&_nc_gid=Q-GVAXemrUe7hTrZRlX3VQ&oh=00_AfW9bfzQunf6-VEYRdp-4GP7JYu4yCVf-23JEfF43l027w&oe=68D52A8C',
       email: 'kewal@crowntech.com'
     },
     {
