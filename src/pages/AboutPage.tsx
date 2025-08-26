@@ -56,7 +56,7 @@ const AboutPage: React.FC = () => {
         'Database architecture planning'
       ],
       skills: ['React', 'CRUD Operations', 'Admin Panels', 'Backend Logic'],
-      avatar: 'Pagoda.png',
+      avatar: 'https://www.facebook.com/photo/?fbid=5767342023325283&set=a.107529959306546&__cft__[0]=AZVtU5inxp9x5honmIa7ZNt__XoSgLGO5va0k51n5z3tJ3uBOheH7qTQRB-e2oXGo3d1CnGiNdLI1sqkF0mGv3_5sWlFeM3K-PDGPJp0r7fxeNHeAXsYKy6BkgghyS8iqBLGIPHN5oektv-xR7fmRhKX_AHYifhQiZcCyvrs3iIGg36pXs_U23kCbzrXCrCdVJqlMe_MilG5SA1kXAOsdx0D&__tn__=~H-R',
       email: 'nabin@crowntech.com'
     }
   ];
