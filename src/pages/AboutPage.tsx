@@ -356,10 +356,10 @@ const AboutPage: React.FC = () => {
             <Crown className="h-12 w-12 mx-auto mb-4 text-yellow-400" />
             <h2 className="text-2xl font-bold mb-2">CROWN Tech Services</h2>
             <p className="text-gray-300 mb-4">
-              Developed with ❤️ by Amair, Bikram, Kewal, and Nabin
+              Developed with ❤️ by Aamir, Bikram, Kewal, and Nabin
             </p>
             <p className="text-sm text-gray-400">
-              © 2024 CROWN Tech Services. This is a student project for educational purposes.
+              © 2024 CROWN Tech Services..
             </p>
           </div>
         </section>
