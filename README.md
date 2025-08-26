@@ -8,7 +8,7 @@ Visit our live application: [CROWN Tech Services](https://your-netlify-url.netli
 
 ## 👥 Team Members
 
-- **Amair** - UI/UX Designer & Frontend Lead (Landing Page, Product Page)
+- **Aamir** - UI/UX Designer & Frontend Lead (Landing Page, Product Page)
 - **Bikram** - Security & Authentication Lead (Registration, Login Pages)
 - **Kewal** - Cart & Checkout Specialist (Cart Page, Checkout Page)
 - **Nabin** - Admin & Backend Lead (Admin Page, CRUD Operations)
