@@ -141,4 +141,4 @@ This project is developed for educational purposes as part of a group assignment
 
 ---
 
-**© 2024 CROWN Tech Services** - Developed with ❤️ by Amair, Bikram, Kewal, and Nabin
+**© 2024 CROWN Tech Services** - Developed with ❤️ by Aamir, Bikram, Kewal, and Nabin
